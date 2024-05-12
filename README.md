@@ -3,8 +3,8 @@
 
 <h2 align="center">Screenshots</h2>
 <p align="center">
-  <img src="https://github.com/Vaibhav0120/Website/assets/150184948/35c584d0-b31c-4e56-94e0-e17d0d3196de" height="70%" width="70%">
-  <img src="https://github.com/Vaibhav0120/Website/assets/150184948/4be3b65e-2625-47e5-96f7-f8ad7c3350a2"  height="70%" width="70%">
+  <img src="https://github.com/Vaibhav0120/Confession/assets/150184948/5137989c-cdec-4e1a-850c-de4356229321" height="70%" width="70%">
+  <img src="https://github.com/Vaibhav0120/Confession/assets/150184948/64544841-9f6c-460a-8132-53c546e9573c"  height="70%" width="70%">
 </p>
 
 <h3 align="center">I Made It Just For Fun, But If Its Usefull To You.</h3>
