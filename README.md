@@ -1,5 +1,5 @@
 <h1 align="center">Confession</h1>
-<h3 align="center">Use It To Confess To Your Partner.I Guarantee They Can't Refuse It. 😊😊</h3>
+<h3 align="center">Use It To Confess To Your Partner. I Guarantee They Can't Refuse It. 😊😊</h3>
 
 <h2 align="center">Screenshots</h2>
 <p align="center">
