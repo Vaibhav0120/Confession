@@ -12,6 +12,9 @@ body {
     min-height: 100vh;
     background: whitesmoke;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url('https://wallpapers.com/images/featured/light-pink-background-jvh44qngvii3xuju.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .gif {
